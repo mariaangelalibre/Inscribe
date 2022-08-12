@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/alarmtimer/src/main/res/layout/activity_alarm.xml" value="0.36192271442035817" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/alarmtimer/src/main/res/layout/add_alarm.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/alarmtimer/src/main/res/layout/alarm_items.xml" value="0.18" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1945" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/app/src/main/res/layout/activity_alarm.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/app/src/main/res/layout/activity_medicine_reminder.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/app/src/main/res/layout/activity_notes.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/app/src/main/res/layout/activity_timer.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/app/src/main/res/layout/activity_to_do.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/app/src/main/res/layout/activity_water_break_reminder.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/medicinereminder/src/main/res/drawable/alaram.xml" value="0.1945" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/medicinereminder/src/main/res/layout/activity_notification_message.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/medicinereminder/src/main/res/layout/activity_reminder.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/medicinereminder/src/main/res/layout/medicine.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/medicinereminder/src/main/res/layout/single_reminder_file.xml" value="0.33" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/notes/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/timer/src/main/res/drawable/ic_pause.xml" value="0.1" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/timer/src/main/res/drawable/ic_start.xml" value="0.1" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/timer/src/main/res/layout/activity_timer.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/todolist/src/main/res/layout/dialog_update.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/todolist/src/main/res/layout/list_row_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/todolist/src/main/res/layout/todolist.xml" value="0.1" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/waterbreak/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/User/Android Studio Project/Inscribe/waterbreak/src/main/res/layout/water_break.xml" value="0.25" />
+        <entry key="..\:/Users/User/Inscribe/app/src/main/res/layout/activity_alarm.xml" value="0.2" />
+        <entry key="..\:/Users/User/Inscribe/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/Inscribe/app/src/main/res/layout/activity_medicine_reminder.xml" value="0.2" />
+        <entry key="..\:/Users/User/Inscribe/app/src/main/res/layout/activity_notes.xml" value="0.2" />
+        <entry key="..\:/Users/User/Inscribe/app/src/main/res/layout/activity_timer.xml" value="0.2" />
+        <entry key="..\:/Users/User/Inscribe/app/src/main/res/layout/activity_to_do.xml" value="0.5" />
+        <entry key="..\:/Users/User/Inscribe/app/src/main/res/layout/activity_water_break_reminder.xml" value="0.33" />
+        <entry key="..\:/Users/pondi/AndroidStudioProjects/Inscribe/alarmtimer/src/main/res/layout/activity_alarm.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/pondi/AndroidStudioProjects/Inscribe/alarmtimer/src/main/res/layout/activity_main.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/pondi/AndroidStudioProjects/Inscribe/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/pondi/AndroidStudioProjects/Inscribe/app/src/main/res/layout/activity_timer.xml" value="0.1" />
+        <entry key="..\:/Users/pondi/AndroidStudioProjects/Inscribe/timer/src/main/res/drawable/ic_restart.xml" value="0.1" />
+        <entry key="..\:/Users/pondi/AndroidStudioProjects/Inscribe/timer/src/main/res/drawable/ic_start.xml" value="0.1" />
+        <entry key="..\:/Users/pondi/AndroidStudioProjects/Inscribe/timer/src/main/res/layout/activity_alarm.xml" value="0.1" />
+        <entry key="..\:/Users/pondi/AndroidStudioProjects/Inscribe/timer/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/pondi/AndroidStudioProjects/Inscribe/timer/src/main/res/layout/activity_timer.xml" value="0.14" />
+        <entry key="..\:/Users/pondi/AndroidStudioProjects/Inscribe/timer/src/main/res/layout/activity_timer1.xml" value="0.1" />
+        <entry key="..\:/Users/pondi/Inscribe/app/src/main/res/layout/activity_main.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

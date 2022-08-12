@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="timePickerStyle" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="backgroundColor">#FAFDD6</item>
+        <item name="android:textColorPrimary">#A2B38B</item>
+        <item name="android:textColorSecondary">@color/gray</item>
+    </style>
+    <style name="listViewStyle" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="backgroundColor">@color/FAFDD6</item>
+        <item name="android:textColorPrimary">@color/A2B38B</item>
+        <item name="colorContainer">#FAFDD6</item>
+    </style>
+</resources>

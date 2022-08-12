@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:descendantFocusability="blocksDescendants"
+    android:background="@color/FAFDD6">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/timeTextView"
+            android:textSize="25dp"
+            android:textColor="@color/black"
+            android:paddingLeft="40dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/nameTextView"
+            android:textSize="20dp"
+            android:layout_below="@+id/timeTextView"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/A2B38B"
+            android:paddingLeft="40dp"/>
+
+    </RelativeLayout>
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_baseline_delete_24"
+        android:id="@+id/deletebtn"
+        android:background="@android:color/transparent"
+        android:layout_toLeftOf="@+id/onoff"
+        android:layout_centerVertical="true"
+        android:paddingRight="10dp"/>
+
+    <Switch
+        android:id="@+id/onoff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:paddingRight="40dp"/>
+</RelativeLayout>
